@@ -1,3 +1,5 @@
 choco install javaruntime 
 choco install adobeshockwaveplayer
 choco install AdobeAIR 
+choco install vlc 
+choco install Silverlight 
